@@ -63,7 +63,7 @@ ABPM2/
 
 1. **Clonar o descargar el repositorio:**
    ```bash
-   git clone https://github.com/[usuario]/Proyecto-L4Clases-1.git
+   git clone https://github.com/Cuuuni/ABPM2.git
    cd ABPM2
    ```
 
